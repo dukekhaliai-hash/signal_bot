@@ -1,0 +1,6 @@
+python-telegram-bot>=20.0
+pandas
+numpy
+apscheduler
+pytz
+TA-Lib   # optional for real pattern detection, remove if not needed
